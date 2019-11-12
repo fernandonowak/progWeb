@@ -4,7 +4,7 @@
  box-sizing: border-box;
 }
 
-.background1{
+  .background1{
 /* fallback for old browsers */
 background: #5294bd;
 /* simple linear gradient */
@@ -29,7 +29,7 @@ background: linear-gradient(#999, #000);
 .header2{
   background-color: #000;
   color: white;
-  padding: 50px;
+  padding: 10px;
 
 }
 
@@ -96,13 +96,19 @@ text-decoration: none;
 
 .t1{
   font-family: 'Squada One', cursive;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .t2{
   font-family: 'Squada One', cursive;
   width: 90px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 .p1{
+  margin-left: 40px;
+  margin-right: 40px;
   font-family: 'Roboto Slab', serif;
 }
 
@@ -243,3 +249,18 @@ a:active {
      tr:nth-child(odd) {
      background-color: #999
      }
+.hbutton{
+  margin: 20px;
+    padding: 40px;
+}
+
+.button4 {background-color: #e7e7e7; color: black;}
+
+.floatB{
+  float: right;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}

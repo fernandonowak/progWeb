@@ -28,7 +28,7 @@ background: linear-gradient(#999, #000);
 
 .header2{
   background-color: #000;
-  color: white;
+  color: black;
   padding: 10px;
 
 }
@@ -250,7 +250,7 @@ a:active {
      background-color: #999
      }
 .hbutton{
-  margin: 20px;
+    margin: 20px;
     padding: 40px;
 }
 
